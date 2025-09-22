@@ -1,0 +1,23 @@
+header{
+    background-color: rgb(29, 107, 89) !important;
+}
+header a{
+    color: white !important;
+}
+#sec-1{
+    background-color: rgb(29, 107, 89) !important;
+    color: white !important;
+}
+#Request-demo{
+    background-color: greenyellow;
+    color: rgb(29, 107, 89) !important;
+}
+#ash{
+    color: rgb(224, 223, 223) !important;
+}
+#Sign-up{
+    background-color: rgb(70, 133, 118) !important;
+}
+#burger{
+   background-color: white !important;
+}
